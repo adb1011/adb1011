@@ -11,7 +11,7 @@ I have two degrees Electrical and Computer Engineering from **West Virginia Univ
 
 ## Notable Projects
 
-### Multitasking Operating System (x86)
+### MPX Operating System (x86)
 - Wrote a modular OS in C and Assembly with custom memory management and process control.
 - Implemented multitasking using priority-based scheduling and context switching via ISRs.
 
