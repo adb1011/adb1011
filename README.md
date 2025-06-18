@@ -7,7 +7,7 @@ I have two degrees Electrical and Computer Engineering from **West Virginia Univ
 -  I enjoy designing and programming on microcontrollers (STM32, ESP32) and single-board computers (Jetson, Raspberry Pi).
 -  I interested in **Embedded Systems**, **real-time operating systems**, **real-time operating systems**, and **Controls**.
 -  My toolbox includes: `C`, `MATLAB`, `Python`, `Assembly`, `FreeRTOS`, `ROS2`, `Simulink`, and KiCad.
--  I cycled over **4,215 miles** across the U.S. raising funds for disability awareness with The Ability Experience.
+-  I cycled **4,215 miles** across the U.S. raising funds for disability awareness with The Ability Experience.
 
 ## Notable Projects
 
